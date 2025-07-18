@@ -50,7 +50,7 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📫 **Contato**
 
 - ✉️ E-mail: devpacheco7@gmail.com   
-- 🌐 GitHub: [github.com/devlucasp](https://github.com/devlucasp)
+- 🔗 LinkedIn: [linkedin.com/in/iamlucao](https://www.linkedin.com/in/iamlucao)
 
 ---
 
