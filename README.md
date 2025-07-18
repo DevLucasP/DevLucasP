@@ -21,8 +21,8 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📊 **Estatísticas GitHub**
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaspacheco-dev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspacheco-dev&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devlucasp&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasp&layout=compact&theme=tokyonight" />
 </p>
 
 ---
