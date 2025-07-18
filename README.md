@@ -50,7 +50,7 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📫 **Contato**
 
 - ✉️ E-mail: devpacheco7@gmail.com   
-- 🔗 LinkedIn: [linkedin.com/in/iamlucao](https://www.linkedin.com/in/iamlucao)
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamlucao)
 
 ---
 
