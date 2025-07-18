@@ -49,7 +49,7 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 
 📫 **Contato**
 
-- ✉️ E-mail: lucas.seuemail@example.com   
+- ✉️ E-mail: devpacheco7@gmail.com   
 - 🌐 GitHub: [github.com/devlucasp](https://github.com/devlucasp)
 
 ---
