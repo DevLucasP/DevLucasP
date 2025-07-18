@@ -1,10 +1,10 @@
 <h1 align="center">Olá! Sou Lucas Pacheco 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/iamlucao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+  <a href="https://www.instagram.com/iamlucao" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -50,7 +50,6 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📫 **Contato**
 
 - ✉️ E-mail: devpacheco7@gmail.com   
-- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamlucao)
 
 ---
 
