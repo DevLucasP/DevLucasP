@@ -13,7 +13,7 @@
 
 🚀 **Sobre mim**
 
-Sou apaixonado por tecnologia e resolução de problemas. Com foco em desenvolvimento **back-end**, atuo com estruturas sólidas em **bancos de dados**, **boas práticas de código** e **programação orientada a objetos**.  
+Sou apaixonado por tecnologia e resolução de problemas. Com foco em desenvolvimento **back-end**, atuo com estruturas sólidas em **bancos de dados**, **desenvolvimento web**, **boas práticas de código** e **programação orientada a objetos**.  
 Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolução, buscando sempre unir teoria e prática com projetos reais e estudos aprofundados.
 
 ---
