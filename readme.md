@@ -21,10 +21,9 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📊 **Estatísticas GitHub**
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devlucasp&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasp&layout=compact&theme=tokyonight&cache_seconds=7200" />
+  <img height="160em" src="https://github-readme-stats-mu-pink.vercel.app/api?username=devlucasp&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-mu-pink.vercel.app/api/top-langs/?username=devlucasp&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 🛠 **Tecnologias principais**
@@ -36,7 +35,7 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Bancos de dados relacionais
+### Bancos de dados
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
