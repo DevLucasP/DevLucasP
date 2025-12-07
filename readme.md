@@ -21,8 +21,8 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📊 **Estatísticas GitHub**
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devlucasp&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasp&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devlucasp&show_icons=true&theme=tokyonight&cache_seconds=7200" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasp&layout=compact&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 ---
@@ -30,22 +30,19 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 🛠 **Tecnologias principais**
 
 ### Linguagens e frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Bancos de dados relacionais
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Bancos de dados não relacionais
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-EF1A1A?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ---
 
