@@ -40,7 +40,3 @@ Atualmente curso **Ciência da Computação** no IBMR e estou em constante evolu
 📫 **Contato**
 
 - ✉️ E-mail: devpacheco7@gmail.com   
-
----
-
-⚡ Sempre aprendendo. Sempre construindo.
